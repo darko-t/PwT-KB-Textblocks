@@ -1,0 +1,195 @@
+Description_Cluster;Description_Count;Description_PerMille;Typ_OInf;Typ_Count;Typ_PerMille
+bis mm;7;0.92;Galerie avec structure en cadre;4;571.43
+bis mm;7;0.92;Pont - dalle;1;142.86
+bis mm;7;0.92;Galerie;1;142.86
+bis mm;7;0.92;Pont à poutre continue;1;142.86
+vereinzelt;16;2.1;Galerie avec structure en cadre;4;250.0
+vereinzelt;16;2.1;Pont à poutre continue;4;250.0
+vereinzelt;16;2.1;Installation (groupe d'ouvrages en général);1;62.5
+vereinzelt;16;2.1;Construction de soutènement;1;62.5
+vereinzelt;16;2.1;Pont - dalle;1;62.5
+vereinzelt;16;2.1;Mur de soutènement;5;312.5
+aufgrund bewehrungskorrosion;12;1.57;Galerie avec structure en cadre;3;250.0
+aufgrund bewehrungskorrosion;12;1.57;Pont à poutre continue;1;83.33
+aufgrund bewehrungskorrosion;12;1.57;Pont - dalle;3;250.0
+aufgrund bewehrungskorrosion;12;1.57;Mur de soutènement;3;250.0
+aufgrund bewehrungskorrosion;12;1.57;Galerie;2;166.67
+wenige;23;3.02;Galerie avec structure en cadre;7;304.35
+wenige;23;3.02;Mur de soutènement;4;173.91
+wenige;23;3.02;Pont à poutre continue;8;347.83
+wenige;23;3.02;Pont - dalle;1;43.48
+wenige;23;3.02;Pont à poutre simple;1;43.48
+wenige;23;3.02;Galerie;2;86.96
+fissures de rag;52;6.82;Pont cadre;29;557.69
+fissures de rag;52;6.82;Ponceau;1;19.23
+fissures de rag;52;6.82;Mur de soutènement;2;38.46
+fissures de rag;52;6.82;Pont à béquilles;5;96.15
+fissures de rag;52;6.82;Pont à poutre simple;2;38.46
+fissures de rag;52;6.82;Pont - dalle;1;19.23
+fissures de rag;52;6.82;Pont à poutre continue;5;96.15
+fissures de rag;52;6.82;Pont composé de plusieurs ouvrages;5;96.15
+fissures de rag;52;6.82;Cuvelage;1;19.23
+fissures de rag;52;6.82;Installation (groupe d'ouvrages en général);1;19.23
+avec rag;18;2.36;Pont cadre;5;277.78
+avec rag;18;2.36;Pont composé de plusieurs ouvrages;2;111.11
+avec rag;18;2.36;Pont - dalle;3;166.67
+avec rag;18;2.36;Pont à poutre continue;2;111.11
+avec rag;18;2.36;Galerie;1;55.56
+avec rag;18;2.36;Pont, viaduc;2;111.11
+avec rag;18;2.36;Pont à béquilles;1;55.56
+avec rag;18;2.36;Construction de soutènement;1;55.56
+avec rag;18;2.36;Paroi antibruit fixe;1;55.56
+présence de végétation;14;1.84;Ponceau à caisson ou tuyau;1;71.43
+présence de végétation;14;1.84;Pont à poutre continue;1;71.43
+présence de végétation;14;1.84;Ponceau;1;71.43
+présence de végétation;14;1.84;Ponceau à section ouverte;1;71.43
+présence de végétation;14;1.84;Galerie;8;571.43
+présence de végétation;14;1.84;Mur de soutènement;1;71.43
+présence de végétation;14;1.84;Pont à poutre simple;1;71.43
+non constaté;19;2.49;Pont à béquilles;1;52.63
+non constaté;19;2.49;Cuvelage;5;263.16
+non constaté;19;2.49;Pont à poutre simple;1;52.63
+non constaté;19;2.49;Pont cadre;6;315.79
+non constaté;19;2.49;Pont - dalle;4;210.53
+non constaté;19;2.49;Pont à poutre continue;2;105.26
+interventions entretien courant;49;6.43;Pont cadre;48;979.59
+interventions entretien courant;49;6.43;Pont à poutre continue;1;20.41
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Tranchée couverte en voûte;3;150.0
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Pont à poutre continue;1;50.0
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Mur de soutènement;6;300.0
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Tunnel creusé;4;200.0
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Construction souterraine;6;300.0
+bewuchs von moos und gräser;7;0.92;Installation (groupe d'ouvrages en général);3;428.57
+bewuchs von moos und gräser;7;0.92;Galerie avec structure en cadre;1;142.86
+bewuchs von moos und gräser;7;0.92;Mur de soutènement;3;428.57
+rissbreite bis mm;12;1.57;Tranchée couverte en voûte;2;166.67
+rissbreite bis mm;12;1.57;Mur de soutènement;3;250.0
+rissbreite bis mm;12;1.57;Pont - dalle;2;166.67
+rissbreite bis mm;12;1.57;Pont à poutre continue;1;83.33
+rissbreite bis mm;12;1.57;Pont à poutre simple;2;166.67
+rissbreite bis mm;12;1.57;Pont particulier;2;166.67
+geringfügig;50;6.56;Mur de soutènement;11;220.0
+geringfügig;50;6.56;Galerie avec structure en cadre;6;120.0
+geringfügig;50;6.56;Pont à poutre continue;22;440.0
+geringfügig;50;6.56;Pont - dalle;6;120.0
+geringfügig;50;6.56;Galerie;2;40.0
+geringfügig;50;6.56;Installation (groupe d'ouvrages en général);1;20.0
+geringfügig;50;6.56;Pont particulier;1;20.0
+geringfügig;50;6.56;Pont en arc;1;20.0
+im rahmen der instandsetzung;24;3.15;Pont à poutre simple;24;1000.0
+non constaté constatation effacer;19;2.49;Mur de soutènement;10;526.32
+non constaté constatation effacer;19;2.49;Ponceau à caisson ou tuyau;7;368.42
+non constaté constatation effacer;19;2.49;Installation souterraine;2;105.26
+fissures verticales;11;1.44;Pont composé de plusieurs ouvrages;6;545.45
+fissures verticales;11;1.44;Galerie;1;90.91
+fissures verticales;11;1.44;Pont - dalle;1;90.91
+fissures verticales;11;1.44;Pont cadre;1;90.91
+fissures verticales;11;1.44;Pont à poutre continue;2;181.82
+avec armatures apparentes et corrodées;28;3.67;Pont composé de plusieurs ouvrages;6;214.29
+avec armatures apparentes et corrodées;28;3.67;Mur de soutènement;5;178.57
+avec armatures apparentes et corrodées;28;3.67;Pont - dalle;8;285.71
+avec armatures apparentes et corrodées;28;3.67;Pont, viaduc;1;35.71
+avec armatures apparentes et corrodées;28;3.67;Galerie;2;71.43
+avec armatures apparentes et corrodées;28;3.67;Pont cadre;2;71.43
+avec armatures apparentes et corrodées;28;3.67;Pont à poutre continue;3;107.14
+avec armatures apparentes et corrodées;28;3.67;Installation souterraine;1;35.71
+dépôts et efflorescences;12;1.57;Pont composé de plusieurs ouvrages;3;250.0
+dépôts et efflorescences;12;1.57;Pont cadre;8;666.67
+dépôts et efflorescences;12;1.57;Pont à poutre continue;1;83.33
+ouverture inférieure 3mm;9;1.18;Pont cadre;1;111.11
+ouverture inférieure 3mm;9;1.18;Pont composé de plusieurs ouvrages;5;555.56
+ouverture inférieure 3mm;9;1.18;Pont, viaduc;2;222.22
+ouverture inférieure 3mm;9;1.18;Mur de soutènement;1;111.11
+réparé;18;2.36;Pont cadre;16;888.89
+réparé;18;2.36;Galerie;1;55.56
+réparé;18;2.36;Pont - dalle;1;55.56
+sans armatures apparentes;53;6.95;Mur de soutènement;6;113.21
+sans armatures apparentes;53;6.95;Ponceau à caisson ou tuyau;2;37.74
+sans armatures apparentes;53;6.95;Pont cadre;13;245.28
+sans armatures apparentes;53;6.95;Galerie;6;113.21
+sans armatures apparentes;53;6.95;Pont à poutre simple;7;132.08
+sans armatures apparentes;53;6.95;Pont - dalle;7;132.08
+sans armatures apparentes;53;6.95;Pont particulier;2;37.74
+sans armatures apparentes;53;6.95;Pont composé de plusieurs ouvrages;4;75.47
+sans armatures apparentes;53;6.95;Pont, viaduc;2;37.74
+sans armatures apparentes;53;6.95;Install. d'évacuation et d'épuration des eaux;1;18.87
+sans armatures apparentes;53;6.95;Pont à poutre continue;1;18.87
+sans armatures apparentes;53;6.95;Ponceau;1;18.87
+sans armatures apparentes;53;6.95;Installation souterraine;1;18.87
+fissures avec une ouverture inférieure 3mm;12;1.57;Mur de soutènement;3;250.0
+fissures avec une ouverture inférieure 3mm;12;1.57;Pont - dalle;2;166.67
+fissures avec une ouverture inférieure 3mm;12;1.57;Pont à poutre continue;4;333.33
+fissures avec une ouverture inférieure 3mm;12;1.57;Galerie;2;166.67
+fissures avec une ouverture inférieure 3mm;12;1.57;Installation souterraine;1;83.33
+inférieures 3mm;21;2.75;Pont à poutre continue;13;619.05
+inférieures 3mm;21;2.75;Pont cadre;2;95.24
+inférieures 3mm;21;2.75;Pont - dalle;5;238.1
+inférieures 3mm;21;2.75;Pont sur cuvelage;1;47.62
+défaut exécution;47;6.16;Pont à poutre continue;25;531.91
+défaut exécution;47;6.16;Pont composé de plusieurs ouvrages;11;234.04
+défaut exécution;47;6.16;Pont cadre;1;21.28
+défaut exécution;47;6.16;Pont à béquilles;2;42.55
+défaut exécution;47;6.16;Pont haubané;6;127.66
+défaut exécution;47;6.16;Pont - dalle;1;21.28
+défaut exécution;47;6.16;Bassin d'eau pluviale;1;21.28
+dépôts de carbonate de calcium haute teneur en chlorure en surface;15;1.97;Pont à poutre continue;15;1000.0
+fissure de retrait variation de température;12;1.57;Pont à poutre continue;12;1000.0
+efflorescences en surface;8;1.05;Pont composé de plusieurs ouvrages;6;750.0
+efflorescences en surface;8;1.05;Pont - dalle;1;125.0
+efflorescences en surface;8;1.05;Pont haubané;1;125.0
+venue eau depuis la partie sup de ouvrage;8;1.05;Pont composé de plusieurs ouvrages;2;250.0
+venue eau depuis la partie sup de ouvrage;8;1.05;Ponceau;5;625.0
+venue eau depuis la partie sup de ouvrage;8;1.05;Pont haubané;1;125.0
+venue eau depuis la partie sup de ouvrage étanchéité du tablier localement compromise;8;1.05;Pont à poutre continue;8;1000.0
+fissures dues des déformations empêchées fissures de retrait;7;0.92;Pont cadre;4;571.43
+fissures dues des déformations empêchées fissures de retrait;7;0.92;Pont composé de plusieurs ouvrages;1;142.86
+fissures dues des déformations empêchées fissures de retrait;7;0.92;Ponceau;2;285.71
+fortschreitende flächenkorrosion;21;2.75;Constr. de  protection contre les dangers naturels;18;857.14
+fortschreitende flächenkorrosion;21;2.75;Ouvrage de protection;3;142.86
+fissures verticales fissures de retrait fissures dues la corrosion des armatures fissures de début de rag;7;0.92;Pont à poutre continue;7;1000.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Pont cadre;5;625.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Galerie;2;250.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Pont - dalle;1;125.0
+cette constatation pas été relevée;16;2.1;Pont composé de plusieurs ouvrages;13;812.5
+cette constatation pas été relevée;16;2.1;Pont à poutre continue;3;187.5
+photos ensemble;9;1.18;Pont à poutre continue;9;1000.0
+unproblematisch;7;0.92;Galerie avec structure en cadre;1;142.86
+unproblematisch;7;0.92;Mur de soutènement;6;857.14
+généralisé défaut exécution;7;0.92;Pont à poutre continue;7;1000.0
+faïencage de la surface dû un phénomène vraisemblablement de rag couplé avec un phénomène de gel-dégel;10;1.31;Pont cadre;10;1000.0
+joint détérioré;17;2.23;Pont cadre;11;647.06
+joint détérioré;17;2.23;Mur de soutènement;1;58.82
+joint détérioré;17;2.23;Pont, viaduc;3;176.47
+joint détérioré;17;2.23;Pont - dalle;1;58.82
+joint détérioré;17;2.23;Installation souterraine;1;58.82
+diverse anzeichen von bewehrungskorrosion in form von rostflecken;7;0.92;Pont cadre;2;285.71
+diverse anzeichen von bewehrungskorrosion in form von rostflecken;7;0.92;Pont - dalle;1;142.86
+diverse anzeichen von bewehrungskorrosion in form von rostflecken;7;0.92;Galerie avec structure en cadre;2;285.71
+diverse anzeichen von bewehrungskorrosion in form von rostflecken;7;0.92;Tunnel creusé;2;285.71
+avec corrosion de armature;9;1.18;Pont - dalle;2;222.22
+avec corrosion de armature;9;1.18;Pont composé de plusieurs ouvrages;4;444.44
+avec corrosion de armature;9;1.18;Pont, viaduc;1;111.11
+avec corrosion de armature;9;1.18;Pont cadre;2;222.22
+fissures de retrait;13;1.71;Galerie;4;307.69
+fissures de retrait;13;1.71;Pont composé de plusieurs ouvrages;4;307.69
+fissures de retrait;13;1.71;Pont, viaduc;1;76.92
+fissures de retrait;13;1.71;Pont haubané;2;153.85
+fissures de retrait;13;1.71;Installation souterraine;2;153.85
+avec éclatement;7;0.92;Pont à poutre simple;2;285.71
+avec éclatement;7;0.92;Pont - dalle;1;142.86
+avec éclatement;7;0.92;Galerie;2;285.71
+avec éclatement;7;0.92;Pont à poutre continue;2;285.71
+non conforme aux exigences de ofrou;7;0.92;Ponceau;5;714.29
+non conforme aux exigences de ofrou;7;0.92;Pont, viaduc;2;285.71
+grilles défectueuses;10;1.31;Galerie;10;1000.0
+ragréages localisés;7;0.92;Pont cadre;7;1000.0
+tiges métalliques des anciennes glissières début de corrosion;11;1.44;Pont composé de plusieurs ouvrages;11;1000.0
+armature mise nu;7;0.92;Galerie;5;714.29
+armature mise nu;7;0.92;Installation souterraine;2;285.71
+avec dépôt de calcaire;7;0.92;Pont - dalle;2;285.71
+avec dépôt de calcaire;7;0.92;Pont à poutre simple;1;142.86
+avec dépôt de calcaire;7;0.92;Pont, viaduc;1;142.86
+avec dépôt de calcaire;7;0.92;Pont cadre;1;142.86
+avec dépôt de calcaire;7;0.92;Mur de soutènement;1;142.86
+avec dépôt de calcaire;7;0.92;Pont composé de plusieurs ouvrages;1;142.86
+corrosion de armature avec éclatement de la surface du béton;9;1.18;Pont composé de plusieurs ouvrages;9;1000.0

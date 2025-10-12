@@ -1,0 +1,215 @@
+Description_Cluster;Description_Count;Description_PerMille;Type_de_constatation;Type_Count;Type_PerMille
+bis mm;7;0.92;Fissures dues à la corrosion de l'armature;1;142.86
+bis mm;7;0.92;Fissures à treillis;2;285.71
+bis mm;7;0.92;Fissures longitudinales;1;142.86
+bis mm;7;0.92;Fissures dues à des déformations empêchées;2;285.71
+bis mm;7;0.92;Fissures de flexion;1;142.86
+vereinzelt;16;2.1;Revêtement de finition disparaissant (usure);1;62.5
+vereinzelt;16;2.1;Taches de rouille;1;62.5
+vereinzelt;16;2.1;Enrobage d'armature insuffisant;1;62.5
+vereinzelt;16;2.1;Lessivage de la chaux;2;125.0
+vereinzelt;16;2.1;Nids de gravier;3;187.5
+vereinzelt;16;2.1;Joint de mortier avec du jeu;2;125.0
+vereinzelt;16;2.1;autres fissures;1;62.5
+vereinzelt;16;2.1;Armature légèrement corrodée;1;62.5
+vereinzelt;16;2.1;Fissures transversales;1;62.5
+vereinzelt;16;2.1;Traces de rouille;1;62.5
+vereinzelt;16;2.1;Parties corrodées;1;62.5
+vereinzelt;16;2.1;Couverture de végétation;1;62.5
+aufgrund bewehrungskorrosion;12;1.57;Eclats;10;833.33
+aufgrund bewehrungskorrosion;12;1.57;Perte de gravillons;1;83.33
+aufgrund bewehrungskorrosion;12;1.57;Taches de rouille;1;83.33
+wenige;23;3.02;Taches de rouille;8;347.83
+wenige;23;3.02;Lessivage de la chaux;3;130.43
+wenige;23;3.02;Enrobage d'armature insuffisant;2;86.96
+wenige;23;3.02;Armature fortement corrodée;1;43.48
+wenige;23;3.02;Conduites bouchées;1;43.48
+wenige;23;3.02;Eclats;2;86.96
+wenige;23;3.02;Fissures dues à des déformations empêchées;1;43.48
+wenige;23;3.02;Fissures dans le joint;1;43.48
+wenige;23;3.02;Eclats dus au gel;2;86.96
+wenige;23;3.02;Armature légèrement corrodée;1;43.48
+wenige;23;3.02;Fissures à treillis;1;43.48
+fissures de rag;52;6.82;autres fissures;49;942.31
+fissures de rag;52;6.82;Fissures à treillis;1;19.23
+fissures de rag;52;6.82;autre constatation;1;19.23
+fissures de rag;52;6.82;Fissures dues à des déformations empêchées;1;19.23
+avec rag;18;2.36;autres fissures;9;500.0
+avec rag;18;2.36;Armature légèrement corrodée;4;222.22
+avec rag;18;2.36;Taches de rouille;3;166.67
+avec rag;18;2.36;Fissures dues à des déformations empêchées;1;55.56
+avec rag;18;2.36;Fissures longitudinales;1;55.56
+présence de végétation;14;1.84;Encrassement;11;785.71
+présence de végétation;14;1.84;autre constatation;1;71.43
+présence de végétation;14;1.84;Aptitude au fonctionnement réduite;1;71.43
+présence de végétation;14;1.84;Couverture de végétation;1;71.43
+non constaté;19;2.49;Taches humides localisées;2;105.26
+non constaté;19;2.49;Traces de rouille;1;52.63
+non constaté;19;2.49;Ecaillage du rhabillage;1;52.63
+non constaté;19;2.49;Enrobage d'armature insuffisant;4;210.53
+non constaté;19;2.49;Conduites fissurées;1;52.63
+non constaté;19;2.49;Fissures transversales;2;105.26
+non constaté;19;2.49;Taches de rouille;2;105.26
+non constaté;19;2.49;Nids de gravier;1;52.63
+non constaté;19;2.49;Graffiti;1;52.63
+non constaté;19;2.49;Encrassement;1;52.63
+non constaté;19;2.49;Armature légèrement corrodée;1;52.63
+non constaté;19;2.49;Cloques;1;52.63
+non constaté;19;2.49;autres fissures;1;52.63
+interventions entretien courant;49;6.43;autre constatation;49;1000.0
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Fissures à treillis;2;100.0
+anzeichen auf aar aufgrund typischem rissbild;20;2.62;Réaction alcali-granulat (RAG);18;900.0
+bewuchs von moos und gräser;7;0.92;Couverture de végétation;7;1000.0
+rissbreite bis mm;12;1.57;Fissures transversales;1;83.33
+rissbreite bis mm;12;1.57;Fissures dues à des déformations empêchées;5;416.67
+rissbreite bis mm;12;1.57;Réaction alcali-granulat (RAG);2;166.67
+rissbreite bis mm;12;1.57;Fissures dans le joint;2;166.67
+rissbreite bis mm;12;1.57;Fissures longitudinales;2;166.67
+geringfügig;50;6.56;Fissures dans le joint;4;80.0
+geringfügig;50;6.56;Lessivage de la chaux;6;120.0
+geringfügig;50;6.56;Usure;1;20.0
+geringfügig;50;6.56;Raccord au revêtement détaché;3;60.0
+geringfügig;50;6.56;Eclats;3;60.0
+geringfügig;50;6.56;Taches de rouille;17;340.0
+geringfügig;50;6.56;Fissures longitudinales;2;40.0
+geringfügig;50;6.56;Ornières;1;20.0
+geringfügig;50;6.56;Déformations suite à collision;1;20.0
+geringfügig;50;6.56;Nids de gravier;1;20.0
+geringfügig;50;6.56;Fissures dues à des déformations empêchées;3;60.0
+geringfügig;50;6.56;Couverture de végétation;2;40.0
+geringfügig;50;6.56;Enrobage d'armature insuffisant;1;20.0
+geringfügig;50;6.56;Fissures transversales;1;20.0
+geringfügig;50;6.56;Traces de rouille;2;40.0
+geringfügig;50;6.56;Armature légèrement corrodée;1;20.0
+geringfügig;50;6.56;Parties corrodées;1;20.0
+im rahmen der instandsetzung;24;3.15;Enrobage d'armature inférieur à 15 mm;1;41.67
+im rahmen der instandsetzung;24;3.15;autres fissures;1;41.67
+im rahmen der instandsetzung;24;3.15;Armature fortement corrodée;1;41.67
+im rahmen der instandsetzung;24;3.15;autre constatation;5;208.33
+im rahmen der instandsetzung;24;3.15;Fissures longitudinales;1;41.67
+im rahmen der instandsetzung;24;3.15;Eclats;5;208.33
+im rahmen der instandsetzung;24;3.15;Armature légèrement corrodée;1;41.67
+im rahmen der instandsetzung;24;3.15;Taches de rouille;2;83.33
+im rahmen der instandsetzung;24;3.15;Taches humides localisées;1;41.67
+im rahmen der instandsetzung;24;3.15;Nids de poule;1;41.67
+im rahmen der instandsetzung;24;3.15;Lessivage de la chaux;1;41.67
+im rahmen der instandsetzung;24;3.15;Usure;1;41.67
+im rahmen der instandsetzung;24;3.15;Nids de gravier;3;125.0
+non constaté constatation effacer;19;2.49;Fissures dans le joint;2;105.26
+non constaté constatation effacer;19;2.49;autre constatation;5;263.16
+non constaté constatation effacer;19;2.49;Lessivage de la chaux;1;52.63
+non constaté constatation effacer;19;2.49;Enrobage d'armature insuffisant;2;105.26
+non constaté constatation effacer;19;2.49;Eclats;3;157.89
+non constaté constatation effacer;19;2.49;Armature légèrement corrodée;1;52.63
+non constaté constatation effacer;19;2.49;Fissures à treillis;1;52.63
+non constaté constatation effacer;19;2.49;Taches de rouille;1;52.63
+non constaté constatation effacer;19;2.49;Carbonatation importante;1;52.63
+non constaté constatation effacer;19;2.49;Fissures dues à des déformations empêchées;1;52.63
+non constaté constatation effacer;19;2.49;Fissures longitudinales;1;52.63
+fissures verticales;11;1.44;autres fissures;4;363.64
+fissures verticales;11;1.44;autre constatation;2;181.82
+fissures verticales;11;1.44;Fissures dues à des déformations empêchées;1;90.91
+fissures verticales;11;1.44;Fissures transversales;2;181.82
+fissures verticales;11;1.44;Fissures longitudinales;2;181.82
+avec armatures apparentes et corrodées;28;3.67;Eclats;25;892.86
+avec armatures apparentes et corrodées;28;3.67;Enrobage d'armature insuffisant;2;71.43
+avec armatures apparentes et corrodées;28;3.67;Taches de rouille;1;35.71
+dépôts et efflorescences;12;1.57;autre constatation;1;83.33
+dépôts et efflorescences;12;1.57;Dépôts de carbonate;1;83.33
+dépôts et efflorescences;12;1.57;Lessivage de la chaux;1;83.33
+dépôts et efflorescences;12;1.57;Zones humides;9;750.0
+ouverture inférieure 3mm;9;1.18;Fissures longitudinales;8;888.89
+ouverture inférieure 3mm;9;1.18;Fissures transversales;1;111.11
+réparé;18;2.36;autre constatation;3;166.67
+réparé;18;2.36;Eclatement;1;55.56
+réparé;18;2.36;Taches de rouille;1;55.56
+réparé;18;2.36;Graffiti;2;111.11
+réparé;18;2.36;Nids de gravier;2;111.11
+réparé;18;2.36;Fissures longitudinales;1;55.56
+réparé;18;2.36;Eclats;1;55.56
+réparé;18;2.36;Eclats, ruptures et morceaux qui se détachent;2;111.11
+réparé;18;2.36;Fissures à treillis;1;55.56
+réparé;18;2.36;Enrobage d'armature insuffisant;1;55.56
+réparé;18;2.36;Armature fortement corrodée;1;55.56
+réparé;18;2.36;Joints détériorés;2;111.11
+sans armatures apparentes;53;6.95;Eclats;49;924.53
+sans armatures apparentes;53;6.95;Eclatement;2;37.74
+sans armatures apparentes;53;6.95;Enrobage d'armature insuffisant;1;18.87
+sans armatures apparentes;53;6.95;Nids de gravier;1;18.87
+fissures avec une ouverture inférieure 3mm;12;1.57;Fissures à treillis;9;750.0
+fissures avec une ouverture inférieure 3mm;12;1.57;Fissures longitudinales;3;250.0
+inférieures 3mm;21;2.75;Fissures transversales;3;142.86
+inférieures 3mm;21;2.75;Fissures dues à des déformations empêchées;10;476.19
+inférieures 3mm;21;2.75;Fissures longitudinales;7;333.33
+inférieures 3mm;21;2.75;autres fissures;1;47.62
+défaut exécution;47;6.16;Enrobage d'armature insuffisant;15;319.15
+défaut exécution;47;6.16;Nids de gravier;25;531.91
+défaut exécution;47;6.16;autre constatation;7;148.94
+dépôts de carbonate de calcium haute teneur en chlorure en surface;15;1.97;Zones humides;5;333.33
+dépôts de carbonate de calcium haute teneur en chlorure en surface;15;1.97;Lessivage de la chaux;7;466.67
+dépôts de carbonate de calcium haute teneur en chlorure en surface;15;1.97;autre constatation;3;200.0
+fissure de retrait variation de température;12;1.57;Fissures dues à des déformations empêchées;12;1000.0
+efflorescences en surface;8;1.05;Zones humides;7;875.0
+efflorescences en surface;8;1.05;Fissures longitudinales;1;125.0
+venue eau depuis la partie sup de ouvrage;8;1.05;Zones humides;6;750.0
+venue eau depuis la partie sup de ouvrage;8;1.05;Taches humides étendues;2;250.0
+venue eau depuis la partie sup de ouvrage étanchéité du tablier localement compromise;8;1.05;Taches humides localisées;8;1000.0
+fissures dues des déformations empêchées fissures de retrait;7;0.92;Fissures transversales;4;571.43
+fissures dues des déformations empêchées fissures de retrait;7;0.92;autres fissures;3;428.57
+fortschreitende flächenkorrosion;21;2.75;Corrosion étendue;20;952.38
+fortschreitende flächenkorrosion;21;2.75;Corrosion locale;1;47.62
+fissures verticales fissures de retrait fissures dues la corrosion des armatures fissures de début de rag;7;0.92;autres fissures;7;1000.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Déplacements;2;250.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Tassements;1;125.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;autre constatation;2;250.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Nids de gravier;1;125.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Zones humides;1;125.0
+cette constatation pas été relevée sur site la constatation est donc classée en réparé afin qu elle ne soit pas reportée lors de la prochaine inspection;8;1.05;Fissures dues à des déformations empêchées;1;125.0
+cette constatation pas été relevée;16;2.1;Taches de rouille;2;125.0
+cette constatation pas été relevée;16;2.1;autres fissures;1;62.5
+cette constatation pas été relevée;16;2.1;Déplacements relatifs;1;62.5
+cette constatation pas été relevée;16;2.1;Enrobage d'armature insuffisant;2;125.0
+cette constatation pas été relevée;16;2.1;Zones humides;1;62.5
+cette constatation pas été relevée;16;2.1;Eclats;2;125.0
+cette constatation pas été relevée;16;2.1;Lessivage de la chaux;6;375.0
+cette constatation pas été relevée;16;2.1;Béton poreux;1;62.5
+photos ensemble;9;1.18;autre constatation;9;1000.0
+unproblematisch;7;0.92;Taches humides localisées;1;142.86
+unproblematisch;7;0.92;Lessivage de la chaux;1;142.86
+unproblematisch;7;0.92;Couverture de végétation;2;285.71
+unproblematisch;7;0.92;Taches de rouille;1;142.86
+unproblematisch;7;0.92;Traces de rouille;1;142.86
+unproblematisch;7;0.92;Nids de gravier;1;142.86
+généralisé défaut exécution;7;0.92;Nids de gravier;7;1000.0
+faïencage de la surface dû un phénomène vraisemblablement de rag couplé avec un phénomène de gel-dégel;10;1.31;Fissures à treillis;10;1000.0
+joint détérioré;17;2.23;autre constatation;17;1000.0
+diverse anzeichen von bewehrungskorrosion in form von rostflecken;7;0.92;Taches de rouille;7;1000.0
+avec corrosion de armature;9;1.18;Eclats;1;111.11
+avec corrosion de armature;9;1.18;Eclatement;3;333.33
+avec corrosion de armature;9;1.18;Enrobage d'armature insuffisant;3;333.33
+avec corrosion de armature;9;1.18;Traces de rouille;1;111.11
+avec corrosion de armature;9;1.18;Lessivage de la chaux;1;111.11
+fissures de retrait;13;1.71;Fissures dues à des déformations empêchées;6;461.54
+fissures de retrait;13;1.71;Fissures transversales;4;307.69
+fissures de retrait;13;1.71;autres fissures;1;76.92
+fissures de retrait;13;1.71;Fissures dues à l'exécution;2;153.85
+avec éclatement;7;0.92;Venue d'eau par écoulement;1;142.86
+avec éclatement;7;0.92;Corrosion locale;2;285.71
+avec éclatement;7;0.92;Fissures longitudinales;1;142.86
+avec éclatement;7;0.92;Taches de rouille;1;142.86
+avec éclatement;7;0.92;Traces de rouille;1;142.86
+avec éclatement;7;0.92;Armature fortement corrodée;1;142.86
+non conforme aux exigences de ofrou;7;0.92;autre constatation;7;1000.0
+grilles défectueuses;10;1.31;Conduites bouchées;9;900.0
+grilles défectueuses;10;1.31;Dysfonctionnement;1;100.0
+ragréages localisés;7;0.92;autre constatation;7;1000.0
+tiges métalliques des anciennes glissières début de corrosion;11;1.44;autre constatation;11;1000.0
+armature mise nu;7;0.92;Eclats;4;571.43
+armature mise nu;7;0.92;Eclatement;3;428.57
+avec dépôt de calcaire;7;0.92;Fissures longitudinales;1;142.86
+avec dépôt de calcaire;7;0.92;Venue d'eau par suintement;1;142.86
+avec dépôt de calcaire;7;0.92;Zones humides;2;285.71
+avec dépôt de calcaire;7;0.92;Taches de rouille;1;142.86
+avec dépôt de calcaire;7;0.92;Taches humides localisées;1;142.86
+avec dépôt de calcaire;7;0.92;Venue d'eau par écoulement;1;142.86
+corrosion de armature avec éclatement de la surface du béton;9;1.18;Armature fortement corrodée;9;1000.0
